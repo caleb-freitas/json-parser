@@ -46,8 +46,16 @@ Each data type has its own parser, which can be used separately if desired. The 
 
 All of the above parsers are exported and can be used to parse specific JSON data types.
 
-If you want to check how to use each of the above parsers, please check the docummentation comments in the source code at the [main file](./app/Main.hs)
+If you want to check how to use each of the above parsers, please check the docummentation comments in the source code at the [main file](./app/Main.hs).
+
+## Main Topics Covered
+
+- Applicatives.
+
+- Functors.
+
+- Parsing.
 
 ## Reference
 
-All this code was developed while watching [this tutorial](https://www.youtube.com/watch?v=N9RUqGYuGfw) from [Tsoding](https://tsoding.github.io/)
+All this code was developed while watching [this tutorial](https://www.youtube.com/watch?v=N9RUqGYuGfw) from [Tsoding](https://tsoding.github.io/).
